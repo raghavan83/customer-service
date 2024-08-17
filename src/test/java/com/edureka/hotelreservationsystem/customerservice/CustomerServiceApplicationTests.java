@@ -1,4 +1,4 @@
-package com.edureka.hotelreservationsystem.customer_service;
+package com.edureka.hotelreservationsystem.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

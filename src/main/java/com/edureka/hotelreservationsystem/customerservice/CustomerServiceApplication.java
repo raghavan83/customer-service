@@ -1,4 +1,4 @@
-package com.edureka.hotelreservationsystem.customer_service;
+package com.edureka.hotelreservationsystem.customerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
